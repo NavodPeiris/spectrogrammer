@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="spectrogrammer",
-    version="1.0.0",
+    version="1.0.1",
     description="a spectrogram generator and plotter for wav files",
     packages=find_packages(),
     long_description=long_description,
