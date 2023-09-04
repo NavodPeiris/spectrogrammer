@@ -1,4 +1,4 @@
-from spectro import get_spectrogram, plot_spectrogram
+from spectrogrammer import get_spectrogram, plot_spectrogram
 import numpy as np
 import matplotlib.pyplot as plt
 

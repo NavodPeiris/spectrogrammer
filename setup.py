@@ -4,13 +4,13 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
-    name="spectro",
+    name="spectrogrammer",
     version="1.0.0",
     description="a spectrogram generator and plotter for wav files",
     packages=find_packages(),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Navodplayer1/spectro",
+    url="https://github.com/Navodplayer1/spectrogrammer",
     author="Navod Peiris",
     author_email="navodpeiris1234@gmail.com",
     license="MIT",
