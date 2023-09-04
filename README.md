@@ -1,5 +1,7 @@
 # Spectrogrammer 
 
+![example workflow](https://github.com/github/docs/actions/workflows/main.yaml/badge.svg)
+
 spectrogrammer is a library that provide ease to developers to extract spectrograms from their wav files.
 
 example:
